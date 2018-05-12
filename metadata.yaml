@@ -1,0 +1,34 @@
+_repo: The-Frontiersmen_13724
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2004-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13724'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Mountain life -- Fiction'
+- !lcsh 'Frontier and pioneer life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+tableOfContents: The linguister -- A victor at Chungke -- The captive of the Ada-wehi
+  -- The fate of the Cheera-taghe -- The bewitched ball-sticks -- The visit of the
+  turbulent grandfather -- Notes.
+title: The Frontiersmen
+url: http://www.gutenberg.org/ebooks/13724
